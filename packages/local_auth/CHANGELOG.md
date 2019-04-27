@@ -1,3 +1,6 @@
+## 0.4.0+2
+  * Editted the AlertDialog for those people who don't want a dialog on the screen for fingerprint scanning.
+
 ## 0.4.0+1
 
 * Log a more detailed warning at build time about the previous AndroidX
